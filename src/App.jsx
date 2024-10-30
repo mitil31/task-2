@@ -3,8 +3,8 @@ import CourseList from "./components/CourseList";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 
-function App() {
 
+function App() {
   return (
     <div>
       <Header />
@@ -15,3 +15,4 @@ function App() {
 }
 
 export default App;
+
